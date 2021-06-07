@@ -16,3 +16,5 @@ print('number_list = ', number_list)
 print('char_list = ', char_list)
 
 print('print from Borsh')
+
+print('print from Borsh 2')
