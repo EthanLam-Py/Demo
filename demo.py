@@ -12,5 +12,5 @@ for item in origin_list:
     else:
         char_list.append(item)
 
-print(number_list)
-print(char_list)
+print('number_list = ', number_list)
+print('char_list = ', char_list)
